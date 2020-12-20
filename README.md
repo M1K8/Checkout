@@ -3,6 +3,7 @@
 `go get ./cmd`
 
 `go build ./cmd`
+
 Running the executable starts a server running at `localhost:1337`
 
 # Test
